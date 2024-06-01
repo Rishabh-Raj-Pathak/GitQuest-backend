@@ -48,10 +48,6 @@ Live Link : https://mern-githubpr.onrender.com
 	* `GITHUB_CLIENT_SECRET`: GitHub client secret
 2. Update the `config.js` file with the necessary configuration options
 
-**Live Demo**
--------------
-
-You can check out the live demo of the application at: **[https://your-deployed-link.com](https://your-deployed-link.com)**
 
 **Contributing**
 --------------
